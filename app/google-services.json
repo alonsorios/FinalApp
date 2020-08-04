@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "828852518870",
+    "firebase_url": "https://finalapp-4d6a9.firebaseio.com",
+    "project_id": "finalapp-4d6a9",
+    "storage_bucket": "finalapp-4d6a9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:828852518870:android:1e58277cc431eefd1b2e77",
+        "android_client_info": {
+          "package_name": "com.alonsorios.finalapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "828852518870-algkiis9ujbsgn01a2iugbr9ncv1a5j9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCL-UOsOUt62fzDLXFzBDP5fE-8Z5zwxSg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "828852518870-algkiis9ujbsgn01a2iugbr9ncv1a5j9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
